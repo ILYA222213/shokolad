@@ -1,0 +1,15 @@
+C:\Users\ilruz\source\repos\cocolad\cocolad\bin\Debug\net6.0\cocolad.exe
+C:\Users\ilruz\source\repos\cocolad\cocolad\bin\Debug\net6.0\cocolad.deps.json
+C:\Users\ilruz\source\repos\cocolad\cocolad\bin\Debug\net6.0\cocolad.runtimeconfig.json
+C:\Users\ilruz\source\repos\cocolad\cocolad\bin\Debug\net6.0\cocolad.dll
+C:\Users\ilruz\source\repos\cocolad\cocolad\bin\Debug\net6.0\cocolad.pdb
+C:\Users\ilruz\source\repos\cocolad\cocolad\obj\Debug\net6.0\cocolad.csproj.AssemblyReference.cache
+C:\Users\ilruz\source\repos\cocolad\cocolad\obj\Debug\net6.0\cocolad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilruz\source\repos\cocolad\cocolad\obj\Debug\net6.0\cocolad.AssemblyInfoInputs.cache
+C:\Users\ilruz\source\repos\cocolad\cocolad\obj\Debug\net6.0\cocolad.AssemblyInfo.cs
+C:\Users\ilruz\source\repos\cocolad\cocolad\obj\Debug\net6.0\cocolad.csproj.CoreCompileInputs.cache
+C:\Users\ilruz\source\repos\cocolad\cocolad\obj\Debug\net6.0\cocolad.dll
+C:\Users\ilruz\source\repos\cocolad\cocolad\obj\Debug\net6.0\refint\cocolad.dll
+C:\Users\ilruz\source\repos\cocolad\cocolad\obj\Debug\net6.0\cocolad.pdb
+C:\Users\ilruz\source\repos\cocolad\cocolad\obj\Debug\net6.0\cocolad.genruntimeconfig.cache
+C:\Users\ilruz\source\repos\cocolad\cocolad\obj\Debug\net6.0\ref\cocolad.dll
